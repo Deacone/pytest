@@ -9,8 +9,10 @@
 
 .. _features:
 
-pytest: helps you write better programs
+pytest: 帮助你更好的编写程序
 =======================================
+
+备注：这个项目是对``pytest``项目的中文翻译，持续更新中
 
 .. module:: pytest
 
