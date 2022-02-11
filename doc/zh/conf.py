@@ -470,4 +470,4 @@ def setup(app: "sphinx.application.Sphinx") -> None:
 
     # legacypath.py monkey-patches pytest.Testdir in. Import the file so
     # that autodoc can discover references to it.
-    import _pytest.legacypath  # noqa: F401
+    # import _pytest.legacypath  # noqa: F401

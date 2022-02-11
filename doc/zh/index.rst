@@ -12,22 +12,21 @@
 pytest: 帮助你更好的编写程序
 =======================================
 
-备注：这个项目是对``pytest``项目的中文翻译，持续更新中
+备注：这个项目是对 ``pytest`` 项目的中文翻译，持续更新中
 
 .. module:: pytest
 
-The ``pytest`` framework makes it easy to write small, readable tests, and can
-scale to support complex functional testing for applications and libraries.
+``pytest`` 测试框架能够用简单的方式编写小而简的测试用例，并且可以扩展用来支持应用程序和库中的复杂的功能测试
 
 
-``pytest`` requires: Python 3.7+ or PyPy3.
+``pytest`` 运行要求: Python 3.7+ or PyPy3.
 
-**PyPI package name**: :pypi:`pytest`
+**PyPI 包名称**: :pypi:`pytest`
 
-**Documentation as PDF**: `download latest <https://media.readthedocs.org/pdf/pytest/latest/pytest.pdf>`_
+**PDF格式文档**: `下载最新PDF版本 <https://media.readthedocs.org/pdf/pytest/latest/pytest.pdf>`_
 
 
-A quick example
+一个简单的例子
 ---------------
 
 .. code-block:: python
