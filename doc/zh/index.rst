@@ -40,7 +40,7 @@ pytest: 帮助你更好的编写程序
         assert inc(3) == 5
 
 
-To execute it:
+运行用例:
 
 .. code-block:: pytest
 
@@ -65,16 +65,21 @@ To execute it:
     FAILED test_sample.py::test_answer - assert 4 == 5
     ============================ 1 failed in 0.12s =============================
 
-Due to ``pytest``'s detailed assertion introspection, only plain ``assert`` statements are used.
-See :ref:`Get started <getstarted>` for a basic introduction to using pytest.
+``pytest`` 有详细的断言机制，这里只展示了简单的断言。
+
+有关 ``pytest`` 的基本使用介绍，请参阅 :ref:`开始 <开始>` 。
 
 
-Features
+功能特征
 --------
 
 - Detailed info on failing :ref:`assert statements <assert>` (no need to remember ``self.assert*`` names)
 
+- 失败的详细信息：:ref:`断言描述 <断言>` （不需要专门去记断言名字：``self.assert*`` ）
+
 - :ref:`Auto-discovery <test discovery>` of test modules and functions
+
+- :ref:`自动化识别用例 <test discovery>`
 
 - :ref:`Modular fixtures <fixture>` for managing small or parametrized long-lived test resources
 

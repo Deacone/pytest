@@ -1,4 +1,4 @@
-.. _`assert`:
+.. _`断言`:
 
 How to write and report assertions in tests
 ==================================================

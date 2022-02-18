@@ -3,7 +3,7 @@
 Get Started
 ===================================
 
-.. _`getstarted`:
+.. _`开始`:
 .. _`installation`:
 
 Install ``pytest``
