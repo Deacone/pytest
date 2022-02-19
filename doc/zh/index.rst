@@ -72,31 +72,26 @@ pytest: 帮助你更好的编写程序
 
 功能特征
 --------
-
-- Detailed info on failing :ref:`assert statements <assert>` (no need to remember ``self.assert*`` names)
-
 - 失败的详细信息：:ref:`断言描述 <断言>` （不需要专门去记断言名字：``self.assert*`` ）
 
-- :ref:`Auto-discovery <test discovery>` of test modules and functions
+- :ref:`自动化识别覆盖 <test discovery>` 模块和函数
 
-- :ref:`自动化识别用例 <test discovery>`
+- :ref:`模块化的夹具 <夹具>` 在整个测试周期中管理小型的或参数化的用例
 
-- :ref:`Modular fixtures <fixture>` for managing small or parametrized long-lived test resources
-
-- Can run :ref:`unittest <unittest>` (including trial) and :ref:`nose <noseintegration>` test suites out of the box
+- 可以用 :ref:`unittest <unittest>` 和 :ref:`nose <noseintegration>` 的方式来运行测试用例
 
 - Python 3.7+ or PyPy 3
 
-- Rich plugin architecture, with over 800+ :ref:`external plugins <plugin-list>` and thriving community
+- 拥有 800+ 丰富的插件体系 :ref:`扩展插件 <plugin-list>` 和活跃的社区
 
 
-Documentation
+文档
 -------------
 
-* :ref:`Get started <get-started>` - install pytest and grasp its basics just twenty minutes
-* :ref:`How-to guides <how-to>` - step-by-step guides, covering a vast range of use-cases and needs
-* :ref:`Reference guides <reference>` - includes the complete pytest API reference, lists of plugins and more
-* :ref:`Explanation <explanation>` - background, discussion of key topics, answers to higher-level questions
+* :ref:`快速开始 <开始>` - 只需 20 分钟即可安装 pytest 并掌握其基础知识
+* :ref:`操作指南 <how-to>` - 分步操作指南，
+* :ref:`参考指南 <reference>` - 包括完整的pytest API参考，插件列表参考等
+* :ref:`解释说明 <explanation>` - 问题背后的逻辑，关键主题的讨论，回答更高层次的问题
 
 
 Bugs/Requests
