@@ -94,22 +94,22 @@ pytest: 帮助你更好的编写程序
 * :ref:`解释说明 <explanation>` - 问题背后的逻辑，关键主题的讨论，回答更高层次的问题
 
 
-Bugs/Requests
+Bugs/需求
 -------------
 
-Please use the `GitHub issue tracker <https://github.com/pytest-dev/pytest/issues>`_ to submit bugs or request features.
+请使用 `GitHub 问题管理 <https://github.com/pytest-dev/pytest/issues>`_ 来提bug和需求功能。
 
 
-Changelog
+变更日志
 ---------
 
-Consult the :ref:`Changelog <changelog>` page for fixes and enhancements of each version.
+Bug修复和新增功能的每一个版本请参考 :ref:`变更日志 <changelog>` 。
 
-Support pytest
+支持 pytest
 --------------
 
-`Open Collective`_ is an online funding platform for open and transparent communities.
-It provides tools to raise money and share your finances in full transparency.
+`Open Collective`_ 是一个在线的开放式的透明的资金平台。
+它提供了以完全透明的方式筹集资金和分享您的财务的工具。
 
 It is the platform of choice for individuals and companies that want to make one-time or
 monthly donations directly to the project.
