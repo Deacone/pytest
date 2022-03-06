@@ -111,39 +111,39 @@ Bug修复和新增功能的每一个版本请参考 :ref:`变更日志 <changelo
 `Open Collective`_ 是一个在线的开放式的透明的资金平台。
 它提供了以完全透明的方式筹集资金和分享您的财务的工具。
 
-It is the platform of choice for individuals and companies that want to make one-time or
-monthly donations directly to the project.
+个人和公司想要一次性或者按月的方式直接资助这个项目，这是一个不错的平台。
 
-See more details in the `pytest collective`_.
+查看更多的细节请点击这里 `pytest collective`_.
 
 .. _Open Collective: https://opencollective.com
 .. _pytest collective: https://opencollective.com/pytest
 
 
-pytest for enterprise
+企业使用pytest
 ---------------------
 
-Available as part of the Tidelift Subscription.
+由Tidelift提供订阅服务。
 
-The maintainers of pytest and thousands of other packages are working with Tidelift to deliver commercial support and
-maintenance for the open source dependencies you use to build your applications.
-Save time, reduce risk, and improve code health, while paying the maintainers of the exact dependencies you use.
+pytest和其他数千个软件包的维护者正在与 Tidelift 合作，提供商业支持、维护用于构建应用程序的开源依赖项。
 
-`Learn more. <https://tidelift.com/subscription/pkg/pypi-pytest?utm_source=pypi-pytest&utm_medium=referral&utm_campaign=enterprise&utm_term=repo>`_
+节省时间、降低风险并改善代码运行状况，同时向维护者支付您使用的确切依赖项的费用。
 
-Security
+在您向维护者们提供支付了确切的依赖项目之后，同时更加节约了时间、降低了风险，还提升了代码质量。
+
+`了解更多请点击. <https://tidelift.com/subscription/pkg/pypi-pytest?utm_source=pypi-pytest&utm_medium=referral&utm_campaign=enterprise&utm_term=repo>`_
+
+安全
 ~~~~~~~~
 
-pytest has never been associated with a security vulnerability, but in any case, to report a
-security vulnerability please use the `Tidelift security contact <https://tidelift.com/security>`_.
-Tidelift will coordinate the fix and disclosure.
+pytest从来都未发现有安全漏洞，但是以防万一，您需要上报安全漏洞请使用：`Tidelift 安全联系人 <https://tidelift.com/security>`_.
+Tidelift将会协助修复漏洞并进行披露。
 
 
-License
+协议
 -------
 
-Copyright Holger Krekel and others, 2004.
+始于2004年，Holger、Krekel等人是版权所有人。
 
-Distributed under the terms of the `MIT`_ license, pytest is free and open source software.
+根据 `MIT`_ 许可条款分发，pytest是一款免费的、开源的软件。
 
 .. _`MIT`: https://github.com/pytest-dev/pytest/blob/main/LICENSE
